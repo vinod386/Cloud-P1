@@ -4,13 +4,13 @@ Web Service Description
 =======================
 This web service is for weight conversion. It takes a number of pounds as input and returns the number of kilograms.
 
-Url: /index.php?pounds=<number>
+Url: /weightconversion/index.php?pounds=<number>
 Returns: JSON string 
 
 Example Usage:
 ==============
 
-Url: http://localhost/index.php?pounds=10
+Url: http://localhost/weightconversion/index.php?pounds=10
 Returns: {"pounds":"10","kilograms":4.53}
 
 Docker Notes
