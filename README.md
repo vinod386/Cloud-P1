@@ -10,7 +10,7 @@ Returns: JSON string
 Example Usage:
 ==============
 
-Url: http://localhost:55/index.php?pounds=10
+Url: http://localhost/index.php?pounds=10
 Returns: {"pounds":"10","kilograms":4.53}
 
 Docker Notes
